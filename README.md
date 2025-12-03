@@ -9,8 +9,10 @@ To write a program for error Detection using Cyclic Redundancy Check (CRC-16 bit
 # ALGORITHM:
 ~~~
 1] Open code blocks application and create a new file. 2] After creating the file type the codes.
-3] After typing the codes save the file using the .c extension in the desired location. 4] Run the program using build and run.
-5] Give polynomial values and the generated polynomial is obtained, and by other means arraive	at the desired output which uses the error detection technique. 6] Thus the output polynomial is obtained through this technique.
+3] After typing the codes save the file using the .c extension in the desired location.
+4] Run the program using build and run.
+5] Give polynomial values and the generated polynomial is obtained, and by other means arraive	at the desired output which uses the error detection technique.
+6] Thus the output polynomial is obtained through this technique.
 ~~~
 # PROGRAM:
 ~~~~
@@ -53,6 +55,7 @@ printf("no error detected");
 }
  ~~~~
 # OUTPUT:
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/05a9b315-cb2b-43b1-bbdc-b36ddf2cf110" />
 
 
 # RESULT:
